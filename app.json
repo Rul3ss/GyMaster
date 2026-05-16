@@ -7,6 +7,9 @@
     "experiments": {
       "typedRoutes": true
     },
+    "router": {
+      "root": "src/app"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
