@@ -17,7 +17,7 @@ export default function RootLayout() {
           name="mainPage/index"
           options={{
             title: 'Main',
-            headerShown: true,
+            headerShown: false,
           }}
         />
         <Stack.Screen
